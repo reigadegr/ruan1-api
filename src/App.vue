@@ -5,6 +5,7 @@
     <router-link to="/setup">入口setup</router-link> |
     <router-link to="/comapi">c常用api</router-link> |
     <router-link to="/watch">c侦听器</router-link> |
+    <router-link to="/proin">provide/inject</router-link> |
   </nav>
   <router-view/>
 </template>
