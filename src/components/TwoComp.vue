@@ -3,6 +3,7 @@
 <h2>
   这是中间组件
 </h2>
+  <ThreeComp></ThreeComp>
 </template>
 
 <script>
